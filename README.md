@@ -25,7 +25,7 @@ exoplanet_eda/
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/exoplanet_eda.git
+   git clone https://github.com/goliarr/exoplanet_eda.git
 
 2. Instalar dependencias:
 
